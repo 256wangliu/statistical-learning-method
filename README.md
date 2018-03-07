@@ -2,6 +2,12 @@
 《统计学习方法》笔记-基于Python算法实现
 
 
+notebook中2-knn和3-naive_bayes是基于这个项目的解读: [lihang_book_algorithm](https://github.com/nicolas-chan/lihang_book_algorithm)
+
+4-decision_tree之后的笔记都是本项目的解读。
+
+
+
  第一章 [最小二乘法](https://github.com/wzyonggege/statistical-learning-method/blob/master/LeastSquaresMethod/least_sqaure_method.ipynb)
 
  第二章 [感知机](https://github.com/wzyonggege/statistical-learning-method/blob/master/Perceptron/Iris_perceptron.ipynb)
